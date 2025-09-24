@@ -1,1 +1,1 @@
-# Shohidul203-Shohidul203-Clothing-Store-Management-System-Windows-Application-with-C#
+#Clothing-Store-Management-System-Windows-Application-with-C#
